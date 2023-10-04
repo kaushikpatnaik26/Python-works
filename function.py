@@ -2,7 +2,7 @@ def my_function():
     print("Hello function")
 
 my_function()
-
+print(" i am trying git hub for the first time and I am exploring it's features.")
 # parametres
 
 def fun(y):
